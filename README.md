@@ -10,10 +10,13 @@
 		      relevés sont coûteux à obtenir, et à partir de ceux déjà réalisés, on va tenter 
 		      de prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments 
 		      pour lesquels elles n’ont pas encore été mesurées.
-		        * Il va falloir aussi évaluer l’intérêt de l’ENERGY STAR Score en modélisant avec et sans.
+		        * Il va falloir aussi évaluer l’intérêt de l’ENERGY STAR Score en modélisant 
+			  avec et sans.
 		        * Nous allons donc entraîner plusieurs algorithmes de régression linéaires.
-		      A l’issue de l’ apprentissage, retenir le ou les modèles de regression à performance élevée.     		
-          	      Ensuite procéder à l’optimisation des paramètres en utilisant la méthode du Gridsearch.
+		      A l’issue de l’ apprentissage, retenir le ou les modèles de regression à 
+		      performance élevée.     		
+          	      Ensuite procéder à l’optimisation des paramètres en utilisant la méthode du 
+		      Gridsearch.
 
 2-COMPETENCES EVALUEES
 
