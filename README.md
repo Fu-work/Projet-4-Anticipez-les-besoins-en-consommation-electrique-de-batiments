@@ -1,4 +1,4 @@
-# Projet-4-Anticipez les-besoins en consommation électrique de bâtiments
+# Projet-4-Anticipez les besoins en consommation électrique de bâtiments
 
 1-PROBLEMATIQUE
 
