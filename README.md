@@ -17,8 +17,13 @@
 		      performance élevée.     		
           	      Ensuite procéder à l’optimisation des paramètres en utilisant la méthode du 
 		      Gridsearch.
+		      
+2-SOURCE DES  DONNEES
+		     
+		     https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
 
-2-COMPETENCES EVALUEES
+
+3-COMPETENCES EVALUEES
 
 		    -Mettre en place le modèle d'apprentissage supervisé adapté au problème métier.
 		    -Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de
